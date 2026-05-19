@@ -19,7 +19,7 @@ Lista dos arquivos relevantes da pesquisa:
 Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação]():
 
 ```bibtex 
-@inproceedings{bertucci2026anotacaodigital,
+@inproceedings{autor2026anotacaodigital,
     title = "A contribuição da anotação digital para o desempenho de leitura.",
     author = "Hidden for blind review",
     booktitle = {},
