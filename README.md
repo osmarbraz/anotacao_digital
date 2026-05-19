@@ -1,2 +1,30 @@
-# Dados utilizados no artigo "A contribuição da anotação digital para o desempenho de leitura"
+# A contribuição da anotação digital para o desempenho de leitura"
 
+Repositório dos arquivos utilizados em nossa pesquisa. 
+
+## Arquivos
+
+Lista dos arquivos relevantes da pesquisa:
+
+ - **"planilha_anota_digital.xlsx"** = Planilha com dados coletados e análise estatística.
+
+## Download - Clone
+
+```
+!git clone https://github.com/osmarbraz/anotacao_digital.git
+```
+
+## Citando & Autores
+
+Se achar este repositório útil, sinta-se à vontade para citar nossa [publicação]():
+
+```bibtex 
+@inproceedings{bertucci2026anotacaodigital,
+    title = "A contribuição da anotação digital para o desempenho de leitura.",
+    author = "Bertucci, Roberlei Alves;Braz Junior, Osmar de Oliveira; dos Santos, Alckmar Luiz; Fileto, Renato; Willrich, Roberto",     booktitle = {},
+    location = {},
+    year = {2026},
+    pages = {},
+    publisher = {},
+    address = {}        
+}
