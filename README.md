@@ -1,4 +1,4 @@
-# A contribuição da anotação digital para o desempenho de leitura"
+# A contribuição da anotação digital para o desempenho de leitura
 
 Repositório dos arquivos utilizados em nossa pesquisa. 
 
