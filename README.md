@@ -7,7 +7,7 @@ Repositório dos arquivos utilizados em nossa pesquisa.
 Lista dos arquivos relevantes da pesquisa:
 
  - **"planilha_anota_digital.xlsx"** = Planilha com dados coletados e análise estatística.
- - **"AnaliseEstatistica.ipynb"** = Notebook com os cálculos das estatísticos.
+ - **"AnaliseEstatistica.ipynb"** = Notebook com os cálculos estatísticos.
 
 ## Download - Clone
 
